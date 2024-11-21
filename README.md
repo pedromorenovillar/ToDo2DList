@@ -1,4 +1,4 @@
-# The hangman
+# To Do 2D list
 
 > My take on replit's 100 days of code [day 45 challenge](https://replit.com/learn/100-days-of-python/hub?utm_source=widget). It involves CRUD operations on a two-dimensional list.
 
